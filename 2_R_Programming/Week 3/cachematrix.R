@@ -2,7 +2,7 @@
 ## done with the solve function in R. For example, 
 ## if X is a square invertible matrix, then solve(X) returns its inverse.
 
-## This function creates a special "matrix" object that can cache its inverse.
+## This function creates a special "matrix" object that can cache its inverse.//
 
 makeCacheMatrix <- function(x = matrix()) {
   m <- NULL
